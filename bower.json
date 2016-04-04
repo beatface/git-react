@@ -1,0 +1,22 @@
+{
+  "name": "git-react",
+  "description": "Trying more React with an Egghead tutorial.",
+  "main": "index.js",
+  "authors": [
+    "“Emma <“emma.beaton@gmail.com”>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/beatface/git-react",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
